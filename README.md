@@ -6,16 +6,16 @@ iMD4GC: Incomplete Multimodal Data Integration to Advance Precise Treatment Resp
   <br>
     <a href="https://scholar.google.com/citations?user=neX6hWsAAAAJ">Fengtao Zhou</a>,
     <a href="https://scholar.google.com/citations?user=XY6NCLMAAAAJ">Yingxue Xu</a>,
-    <a href="javascript:void(0)">Yanfen Cui</a>,
-    <a href="javascript:void(0)">Shenyan Zhang</a>,
-    <a href="javascript:void(0)">Yun Zhu</a>,
-    <a href="javascript:void(0)">Weiyang He</a>,
+    <a href="">Yanfen Cui</a>,
+    <a href="">Shenyan Zhang</a>,
+    <a href="">Yun Zhu</a>,
+    <a href="">Weiyang He</a>,
     <a href="https://scholar.google.com/citations?user=OIWfp-QAAAAJ">Jiguang Wang</a>,
     <a href="https://scholar.google.com/citations?user=KJSLMFAAAAAJ">Xin Wang</a>,
     <a href="https://orcid.org/0000-0001-9267-0076">Ronald Chan</a>,
     <a href="https://scholar.google.com/citations?user=P6BtCOAAAAAJ">Louis Ho Shing Lau</a>,
     <a href="https://scholar.google.com/citations?user=q08QlVgAAAAJ">Chu Han</a>,
-    <a href="javascript:void(0)">Dafu Zhang</a>,
+    <a href="">Dafu Zhang</a>,
     <a href="https://scholar.google.com/citations?user=O2VHAMIAAAAJ">Zhenhui Li*</a>,
     <a href="https://scholar.google.com/citations?user=Z_t5DjwAAAAJ">Hao Chen*</a>
   </br>
